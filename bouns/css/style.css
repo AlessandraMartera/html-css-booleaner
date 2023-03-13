@@ -2,6 +2,8 @@ body {
     margin: 0;
 }
 
+
+
 /* header */
 header {
     background-color: rgb(0, 166, 255);
@@ -19,18 +21,57 @@ header {
     margin-top: 40px;
 }
 
+
+
+/* main */
+main {
+    width: 70%;
+    margin: 0 auto;
+}
+
+.main-img {
+    border: 1px solid black;
+    display: inline-block;
+
+}
+
+
+
+
+
 /* footer */
+footer {
+    border-top: 3px solid  rgb(0, 166, 255);
+    background-image: url(../img/pattern.png);
+    background-size: 350px;
+}
+
+.center-footer{
+    width: 70%;
+    margin: 0 auto;
+}
+
 .interest {
     color: lightslategray;
     font-size: large;
 }
 
 .footer-img {
-    width: ;
+    width: 300px;
+    height: 200px;
+    display: inline-block;
+}
 
+a, .footer-img { 
+    font-size: 20px;
+    color: antiquewhite;
 }
 
 .footer-img.one {
     background-image: url(../img/monitor.jpg);
+}
+
+.footer-img.two {
+    background-image: url(../img/graph.jpg);
 }
 
