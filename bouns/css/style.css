@@ -10,9 +10,8 @@ header {
 }
 
 .pattern-logo {
-    border: 1px solid black;
     width: 70%;
-    margin: auto 0;
+    margin: 0 auto;
 }
 
 #logo {
@@ -20,4 +19,18 @@ header {
     margin-top: 40px;
 }
 
+/* footer */
+.interest {
+    color: lightslategray;
+    font-size: large;
+}
+
+.footer-img {
+    width: ;
+
+}
+
+.footer-img.one {
+    background-image: url(../img/monitor.jpg);
+}
 
