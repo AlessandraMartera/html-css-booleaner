@@ -17,6 +17,31 @@ header {
     margin-top: 40px;
 }
 
+
+
+/* main */
+main {
+    margin-left: 10px;
+}
+
+h1 {
+    margin-top: 20px;
+    font-size: 50px;
+}
+
+.title-credits {
+    color: lightslategray;
+    margin-bottom: 20px;
+}
+
+#blu {
+    color: rgb(0, 140, 255);
+    
+}
+
+
+
+
 /* footer */
 footer {
     color: lightslategray;
