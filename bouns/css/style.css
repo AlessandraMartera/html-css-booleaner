@@ -1,5 +1,6 @@
 body {
     margin: 0;
+    background-color: rgba(203, 229, 255, 0.687);
 }
 
 
@@ -9,6 +10,7 @@ header {
     background-color: rgb(0, 166, 255);
     background-image: url(../img/pattern.png);
     background-size: 350px;
+    border-bottom: 3px solid  rgb(0, 23, 117);
 }
 
 .pattern-logo {
@@ -81,28 +83,26 @@ thead {
 
 /* footer */
 footer {
-    border-top: 3px solid  rgb(0, 166, 255);
+    border-top: 3px solid  rgb(0, 23, 117);
     background-image: url(../img/pattern.png);
     background-size: 350px;
+    background-color: rgb(0, 166, 255);
 }
 
 .center-footer{
     width: 70%;
     margin: 0 auto;
-    text-align: center;
 }
 
 .interest {
-    color: lightslategray;
+    color: rgb(55, 73, 90);
     font-size: large;
-    text-align: center;
 }
 
 .footer-img {
     width: 300px;
     height: 200px;
     display: inline-block;
-    
 }
 
 a, .footer-img { 
