@@ -16,3 +16,25 @@ header {
     width: 200px;
     margin-top: 40px;
 }
+
+/* footer */
+footer {
+    color: lightslategray;
+    font-size: larger;
+}
+
+.footer_img_one {
+    color: aliceblue;
+    background-image: url(../img/monitor.jpg);
+    width: 300px;
+    height: 200px;
+    margin-top: 10px;
+}
+
+.footer_img_two {
+    color: aliceblue;
+    background-image: url(../img/graph.jpg);
+    width: 300px;
+    height: 200px;
+    margin-top: 10px;
+}
