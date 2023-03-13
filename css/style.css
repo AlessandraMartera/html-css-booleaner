@@ -1,7 +1,5 @@
-/* general settings */
-*{
+body {
     margin: 0;
-    padding: 0;
 }
 
 /* header */
@@ -9,7 +7,6 @@ header {
     background-color: rgb(0, 166, 255);
     background-image: url(../img/pattern.png);
     background-size: 350px;
-    
 }
 
 #logo {
@@ -38,6 +35,37 @@ h1 {
     color: rgb(0, 140, 255);
     
 }
+
+/* main section */
+.main_section {
+    margin-top: 30px;
+}
+
+.important {
+    background-color: yellow;
+}
+
+/* table settings  */
+table {
+    text-align: left;
+}
+
+thead {
+    background-color: rgb(66, 129, 255);
+}
+
+.sigle {
+    width: 100px;
+}
+
+.odd { 
+    background-color: rgb(132, 231, 250);
+}
+
+.even { 
+    background-color: rgb(255, 255, 255);
+}
+
 
 
 
